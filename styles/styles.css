@@ -1,0 +1,17 @@
+.journal{
+    border: solid 1px black;
+}
+fieldset {
+    border: none;
+    display: flex;
+    flex-direction: column;
+}
+fieldset h2 {
+    display: flex;
+    justify-content: center;
+}
+/* .date {
+    display: flex;
+    justify-content: flex-start;
+    align-content: flex-start;
+} */
